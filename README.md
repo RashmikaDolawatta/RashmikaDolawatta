@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/city.gif)](https://rishavchanda.io)
+[![MasterHead](https://wallpapercave.com/wp/wp2757832.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rashmika Dolawatta</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
