@@ -42,6 +42,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rashmikadolawatta&show_icons=true" />
 </picture> -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmikadolawatta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikadolawatta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmikadolawatta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rashmikadolawatta" /></p>
 
