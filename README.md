@@ -40,5 +40,7 @@
 <a href="https://github.com/RashmikaDolawatta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/username=RashmikaDolawatta&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 --> 
 
+<a href="https://app.daily.dev/rashmikadolawatta"><img src="https://api.daily.dev/devcards/d9bf0ec7676649e1bb87fa15680f15f8.png?r=xda" width="400" alt="Rashmika Dolawatta's Dev Card"/></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikadolawatta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rashmikadolawatta" /></p>
 
