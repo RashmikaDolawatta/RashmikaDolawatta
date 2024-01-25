@@ -34,6 +34,8 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDolawatta&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=RashmikaDolawatta&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDolawatta&theme=radical&langs_count=15&layout=compact&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
